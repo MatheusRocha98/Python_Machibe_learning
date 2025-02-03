@@ -1,4 +1,4 @@
-# Python_Machibe_learning
+# Python_Machine_learning
 # Previsão de churn e insights sobre como evitar/poderiam ser evitado os churns
 
 para ver o projeto da maneira "original", baixe o anaconda (jupyter notebooks) pelo site : https://www.anaconda.com/download/success ,baixe os arquivos 'previsão_de_churn.ipynb' e 'churn modeling.csv'. 
